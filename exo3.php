@@ -5,11 +5,10 @@
 
 <h2>Résultat</h2>
 
-<?php
+$nwStr = "Notre formation DL commence aujourd'hui<br>";
+echo $nwStr;
+$nwStr = str_replace("aujourd'hui","demain", "Notre formation DL commence aujourd'hui");
 
-$str = "Notre formation DL commence Aujourd’hui";
-$mot1 = "Aujourd'hui";
-$nwMot = "demain";
-$str = str_replace($mot1,$nwMot,$str);
+echo $nwStr;
 
-echo $str;
+?>
