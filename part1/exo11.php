@@ -23,3 +23,5 @@ for ($i = 0; $i < $nbMarques; $i++) {
     echo "<ul><li>$x[$i].</li></ul>";
 }
 
+?>
+
