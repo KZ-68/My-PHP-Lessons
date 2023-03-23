@@ -5,6 +5,8 @@
 
 <h2>Résultat</h2>
 
+<?php
+
 $nwStr = "Notre formation DL commence aujourd'hui<br>";
 echo $nwStr;
 $nwStr = str_replace("aujourd'hui","demain", "Notre formation DL commence aujourd'hui");
