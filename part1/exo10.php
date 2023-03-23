@@ -38,3 +38,5 @@ while ($reste > 10) {
 }
 
 echo "Rendue de monnaie : $nbr10E billets de 10 € - $nbr5E billet de 5 € - $nbr2E pièce de 2 € - $reste pièce de 1 €<br>";
+
+?>
