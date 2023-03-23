@@ -23,5 +23,6 @@ echo "Sa moyenne générale est donc de: ";
 return $moyenne;
 }
 
+?>
 
 
