@@ -21,3 +21,4 @@ Quantité: $nbrArticle <br>
 Taux de TVA: $tauxTVA <br> 
 Le montant de la facture à régler est de : $montantTTC €";
 
+?>
