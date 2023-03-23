@@ -28,3 +28,5 @@ if ($age > 20 && $sexe == "H" || $sexe == "F" && $age >= 18 && $age <= 35 ) {
 } else {
     echo "non imposable";
 }
+
+?>
