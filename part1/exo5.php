@@ -12,3 +12,5 @@ $euros = 0.1524;
 $calc = $euros * $francs;
 echo "Montant en francs: $francs <br>
 $francs francs = $calc €";
+
+?>
