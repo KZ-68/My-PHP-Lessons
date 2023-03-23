@@ -24,3 +24,5 @@ if ($firstchild >= 12) {
 } else {
     echo "Catégorie non gérée";
 }
+
+?>
