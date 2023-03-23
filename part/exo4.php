@@ -21,3 +21,4 @@ if ($inverted == $lowerCase) {
     echo "La phrase '$lowerCase' n'est pas palindrome";
 }
 
+?>
