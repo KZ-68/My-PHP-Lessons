@@ -10,3 +10,5 @@ A partir de la phrase de l'exercice 1, écrire l'instruction permettant de compt
 $phrase = "Notre formation DL commence aujourd'hui";
 $nbrMots = str_word_count($phrase);
 echo "La phrase $phrase contient " .str_word_count($phrase). " mots<br>";
+
+?>
