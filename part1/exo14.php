@@ -14,7 +14,7 @@ $dob = new DateTime($dateOfBirth);
 $current = new DateTime();
 $diff = $current->diff($dob); 
 echo "La date courante est le :<br>";
-echo $current->format('d/m/Y H:i:s');
+echo $current->format('d/m/Y H:i:s'); // Format de date et de temps en "jour/mois/Année Heures:minutes:secondes" 
 echo "<br>";
 echo "Age de la personne: ".$diff->y." ans ".$diff->m." mois ".$diff->d." jours";
 ?>

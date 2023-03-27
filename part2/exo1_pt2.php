@@ -17,3 +17,5 @@ function convertirMajRouge($texte) {
 }
 
 echo convertirMajRouge($texte);
+
+?>
