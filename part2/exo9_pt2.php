@@ -1,6 +1,9 @@
 <h1>Exercice 9 - Partie 2</h1>
 
-<p></p>
+<p>Créer une fonctionpersonnalisée permettant d’afficher des boutons radio avec un tableau de</br>
+valeurs en paramètre("Monsieur","Madame","Mademoiselle").</p>
+Exemple:</br>
+afficherRadio($nomsRadio);</p>
 
 <h2>Résultat</h2>
 
